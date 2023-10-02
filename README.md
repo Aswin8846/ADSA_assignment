@@ -1,7 +1,7 @@
 # ADSA_assignment
  
-## Get your hands on some DSA concepts
-⚠️Warning : Code writen using [Python](https://docs.python.org/3/).
+## DSA concepts
+
 
 ### Contents:
 1. [**Sorting Algo's**](https://www.geeksforgeeks.org/sorting-algorithms/) [*Code*](Assign1.py)
